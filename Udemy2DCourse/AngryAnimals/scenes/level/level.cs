@@ -14,7 +14,7 @@ public partial class level : Node2D
 		MainScene = (PackedScene)ResourceLoader.Load("res://scenes/main/main.tscn");
 		AnimalScene = (PackedScene)ResourceLoader.Load("res://scenes/animal/animal.tscn");
 		AnimalStart = GetNode<Marker2D>("AnimalStart");
-		
+
 		SignalManager = GetNode<SignalManager>("/root/SignalManager");
 		SignalManager.OnAnimalDied += AnimalDied;
 		

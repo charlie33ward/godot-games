@@ -20,8 +20,18 @@ public partial class LevelButton : TextureButton
 		LevelScene = (PackedScene) ResourceLoader.Load($"res://scenes/level/level{LevelNumber}.tscn");
 	}
 
+	private void OnMouseExited()
+	{
+		Scale = DefaultScale;
+	}
+	private void OnMouseEntered()
+	{
+		Scale = HoverScale;
+	}
+	
 	private void OnPressed()
 	{
+		ScoreManager.SetLevelSelected(LevelNumber);
 		GetTree().ChangeSceneToPacked(LevelScene);
 	}
 }

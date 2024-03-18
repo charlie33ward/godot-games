@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIGnfQ5urrN2GmLDSmZFWxKGyUzL4M4t1lLrGHE/HC8Wyky4s3xBGGT9CJDW7qFbi2I+uq1ipZdMp/U1kxZ9WQ==",
+  "dgSpecHash": "NfSQZ/pOUminmEPMGmqFOi3CFwlHs/itAFiLXebr4fymbk9frt9MSqhvfB8ZF6/EQb1o3Erj/8wzjkh7NNBvIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cward\\Documents\\AngryAnimals\\AngryAnimals.csproj",
+  "projectFilePath": "C:\\Users\\cward\\Documents\\projects\\godot-games\\Udemy2DCourse\\AngryAnimals\\AngryAnimals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cward\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
     "C:\\Users\\cward\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",

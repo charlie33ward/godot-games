@@ -50,4 +50,6 @@ label_settings = ExtResource("3_5khti")
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[connection signal="mouse_entered" from="." to="." method="OnMouseEntered"]
+[connection signal="mouse_exited" from="." to="." method="OnMouseExited"]
 [connection signal="pressed" from="." to="." method="OnPressed"]

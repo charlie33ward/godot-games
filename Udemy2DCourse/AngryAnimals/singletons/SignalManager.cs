@@ -10,6 +10,8 @@ public partial class SignalManager : Node
 	public delegate void OnCupDestroyedEventHandler();
 	[Signal]
 	public delegate void OnAttemptMadeEventHandler();
-
+	
+	
+	
 
 }

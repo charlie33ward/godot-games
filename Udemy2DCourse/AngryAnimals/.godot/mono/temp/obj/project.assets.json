@@ -93,11 +93,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cward\\Documents\\AngryAnimals\\AngryAnimals.csproj",
+      "projectUniqueName": "C:\\Users\\cward\\Documents\\projects\\godot-games\\Udemy2DCourse\\AngryAnimals\\AngryAnimals.csproj",
       "projectName": "AngryAnimals",
-      "projectPath": "C:\\Users\\cward\\Documents\\AngryAnimals\\AngryAnimals.csproj",
+      "projectPath": "C:\\Users\\cward\\Documents\\projects\\godot-games\\Udemy2DCourse\\AngryAnimals\\AngryAnimals.csproj",
       "packagesPath": "C:\\Users\\cward\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cward\\Documents\\AngryAnimals\\.godot\\mono\\temp\\obj\\",
+      "outputPath": "C:\\Users\\cward\\Documents\\projects\\godot-games\\Udemy2DCourse\\AngryAnimals\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cward\\AppData\\Roaming\\NuGet\\NuGet.Config"

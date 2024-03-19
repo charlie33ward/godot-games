@@ -44,11 +44,9 @@ public partial class level : Node2D
 
 	private void OnAnimalStartTreeEntered()
 	{
-		GD.Print(AnimalStart);
 		if (AnimalStart == null)
 		{
 			AnimalStart = GetNode<Marker2D>("AnimalStart");
-
 		}
 	}
 

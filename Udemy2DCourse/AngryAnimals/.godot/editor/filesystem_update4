@@ -1,6 +1,11 @@
+res://scenes/level/level.tscn
 res://assets/fonts/lg_48_wh.tres
 res://assets/fonts/lg_24_wh.tres
+res://scenes/animal/animal.tscn
+res://scenes/water/water.tscn
+res://scenes/main/main.tscn
 res://scenes/cup/cup.tscn
+res://scenes/levelButton/level_button.tscn
 res://scenes/scorer/scorer.tscn
 res://scenes/animal/animal.cs
 res://scenes/cup/cup.cs
@@ -11,8 +16,3 @@ res://scenes/tester/Bird2.cs
 res://scenes/water/water.cs
 res://singletons/ScoreManager.cs
 res://singletons/SignalManager.cs
-res://scenes/level/level.tscn
-res://scenes/animal/animal.tscn
-res://scenes/water/water.tscn
-res://scenes/main/main.tscn
-res://scenes/levelButton/level_button.tscn

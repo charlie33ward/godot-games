@@ -11,12 +11,17 @@ public partial class LevelButton : TextureButton
 	[Export] private Label ScoreLabel;
 
 	private PackedScene LevelScene;
+	private ScoreManager ScoreManager;
 	
 	
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
+		ScoreManager = GetNode<ScoreManager>("/root/ScoreManager");
+		
 		LevelLabel.Text = LevelNumber.ToString();
+		int bestScore = ScoreManager.GetBestForLevel(LevelNumber.ToString());
+		ScoreLabel.Text = bestScore.ToString();
 		LevelScene = (PackedScene) ResourceLoader.Load($"res://scenes/level/level{LevelNumber}.tscn");
 	}
 

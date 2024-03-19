@@ -24,3 +24,4 @@ position = Vector2(563, 609)
 
 [connection signal="tree_exiting" from="." to="." method="OnTreeExiting"]
 [connection signal="tree_entered" from="AnimalStart" to="." method="OnAnimalStartTreeEntered"]
+[connection signal="tree_exiting" from="Scorer" to="." method="OnScorerTreeExiting"]

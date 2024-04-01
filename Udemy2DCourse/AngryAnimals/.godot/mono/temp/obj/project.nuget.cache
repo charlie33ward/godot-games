@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NfSQZ/pOUminmEPMGmqFOi3CFwlHs/itAFiLXebr4fymbk9frt9MSqhvfB8ZF6/EQb1o3Erj/8wzjkh7NNBvIg==",
+  "dgSpecHash": "/5mNMB8rwj1CtWQhNqUxZ8kY2kX6OpZZNVgkDoEnv0O8jkhQ247PfzAoSowediClEghsdFVz4U+ZMhOwejY3Sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\cward\\Documents\\projects\\godot-games\\Udemy2DCourse\\AngryAnimals\\AngryAnimals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cward\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
     "C:\\Users\\cward\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
     "C:\\Users\\cward\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512",
-    "C:\\Users\\cward\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\cward\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\cward\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+    "C:\\Users\\cward\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\cward\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\cward\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }

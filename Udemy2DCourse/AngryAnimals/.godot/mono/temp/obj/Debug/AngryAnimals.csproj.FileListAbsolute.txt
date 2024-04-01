@@ -27,9 +27,9 @@ C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.AssemblyInfo.cs
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.csproj.CoreCompileInputs.cache
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.sourcelink.json
-C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.csproj.CopyComplete
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.dll
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\refint\AngryAnimals.dll
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.pdb
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAnimals.genruntimeconfig.cache
 C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\ref\AngryAnimals.dll
+C:\Users\cward\Documents\projects\godot-games\Udemy2DCourse\AngryAnimals\.godot\mono\temp\obj\Debug\AngryAni.7FD795A3.Up2Date

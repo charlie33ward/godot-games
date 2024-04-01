@@ -1,10 +1,10 @@
-res://scenes/level/level.tscn
+res://scenes/animal/animal.tscn
 res://assets/fonts/lg_48_wh.tres
 res://assets/fonts/lg_24_wh.tres
-res://scenes/animal/animal.tscn
 res://scenes/water/water.tscn
 res://scenes/main/main.tscn
 res://scenes/cup/cup.tscn
+res://scenes/level/level.tscn
 res://scenes/levelButton/level_button.tscn
 res://scenes/scorer/scorer.tscn
 res://scenes/animal/animal.cs

@@ -26,7 +26,7 @@ public partial class Scorer : Node
 	private void OnAttemptMade()
 	{
 		Attempts += 1;
-		SignalManager.EmitSignal(nameof(SignalManager.OnScoreUpdated));
+		SignalManager.EmitSignal(nameof(SignalManager.OnScoreUpdated), Attempts);
 	}
 	
 	private void OnCupDestroyed()

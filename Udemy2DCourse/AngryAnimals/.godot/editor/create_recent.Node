@@ -1,10 +1,11 @@
-Node
+CanvasLayer
 AudioStreamPlayer
-AudioStreamPlayer2D
-MarginContainer
 Label
-HBoxContainer
 VBoxContainer
+MarginContainer
+Node
+AudioStreamPlayer2D
+HBoxContainer
 TextureButton
 TextureRect
 AnimationPlayer
@@ -12,4 +13,3 @@ CollisionPolygon2D
 Sprite2D
 Node2D
 StaticBody2D
-VisibleOnScreenNotifier2D

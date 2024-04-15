@@ -1,7 +1,8 @@
+res://assets/fonts
+res://scenes/gameUI
 res://scenes/scorer
 res://singletons
 res://scenes/level
-res://assets/fonts
 res://scenes/levelButton
 res://scenes/main
 res://scenes/cup

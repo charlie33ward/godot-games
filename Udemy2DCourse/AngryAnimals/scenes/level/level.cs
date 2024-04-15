@@ -4,14 +4,12 @@ using System;
 public partial class level : Node2D
 {
 	private static PackedScene AnimalScene;
-	private PackedScene MainScene;
 	private SignalManager SignalManager;
 	private Marker2D AnimalStart;
 	
 	
 	public override void _Ready()
 	{
-		MainScene = (PackedScene)ResourceLoader.Load("res://scenes/main/main.tscn");
 		AnimalScene = (PackedScene)ResourceLoader.Load("res://scenes/animal/animal.tscn");
 		AnimalStart = GetNode<Marker2D>("AnimalStart");
 
@@ -21,13 +19,6 @@ public partial class level : Node2D
 		InstantiateAnimal();
 	}
 	
-	public override void _Process(double delta)
-	{
-		if (Input.IsKeyPressed(Key.Escape))
-		{
-			GetTree().ChangeSceneToPacked(MainScene);
-		}
-	}
 
 	public void AnimalDied()
 	{

@@ -1,9 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://tjjnrmx1lhwq"]
+[gd_scene load_steps=6 format=3 uid="uid://tjjnrmx1lhwq"]
 
 [ext_resource type="Script" path="res://scenes/level/level.cs" id="1_0kmsp"]
 [ext_resource type="Texture2D" uid="uid://bu2bada23ah8i" path="res://assets/scene/colored_castle.png" id="1_d8x2u"]
 [ext_resource type="PackedScene" uid="uid://d615u12ve8vv" path="res://scenes/water/water.tscn" id="2_5cyj4"]
 [ext_resource type="PackedScene" uid="uid://ck2s8nhunvqjm" path="res://scenes/scorer/scorer.tscn" id="4_y6uqd"]
+[ext_resource type="PackedScene" uid="uid://dlsqqmmqf13pj" path="res://scenes/gameUI/game_ui.tscn" id="5_jrawb"]
 
 [node name="Level" type="Node2D"]
 script = ExtResource("1_0kmsp")
@@ -21,6 +22,10 @@ z_index = 1
 position = Vector2(563, 609)
 
 [node name="Scorer" parent="." instance=ExtResource("4_y6uqd")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="GameUI" parent="CanvasLayer" instance=ExtResource("5_jrawb")]
 
 [connection signal="tree_exiting" from="." to="." method="OnTreeExiting"]
 [connection signal="tree_entered" from="AnimalStart" to="." method="OnAnimalStartTreeEntered"]

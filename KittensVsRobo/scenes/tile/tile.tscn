@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://d4a0xyalfktyj"]
+
+[node name="Tile" type="Sprite2D"]
